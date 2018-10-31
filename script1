@@ -1,0 +1,6 @@
+
+	alert("hello")
+	/*var z1=a1*a5*a9+a3*a4*a8+a7*a2*a6;
+	var z2=a3*a5*a7+a1*a6*a8+a9*a2*a4;
+	var det=z1-z2;
+	alert("hello")*/
